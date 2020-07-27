@@ -1,0 +1,16 @@
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.exe.config
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.exe
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.pdb
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.exe
+C:\Users\jonat\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.pdb
+C:\Users\Jonathan\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.exe.config
+C:\Users\Jonathan\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.exe
+C:\Users\Jonathan\Dropbox\Projects\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.pdb
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.exe.config
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.exe
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\bin\Debug\KeepTalkingWires.pdb
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.csprojAssemblyReference.cache
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.exe
+C:\Users\Jonathan Do\Desktop\KeepTalkingWires\KeepTalkingWires\obj\Debug\KeepTalkingWires.pdb
